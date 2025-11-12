@@ -217,7 +217,7 @@
         const row = input.parentElement.parentElement;
         const stueck = parseFloat(row.cells[1].querySelector('input').value) || 0;
         const laenge = parseFloat(row.cells[3].querySelector('input').value) || 0;
-        const preis = parseFloat(row.cells[7].querySelector('input').value) || 0;
+        const preis = parseFloat(row.cells[6].querySelector('input').value) || 0;
 
         // Länmge in m unter Berücksichtigung der Menge (Stück)
         const mm = (laenge * stueck) / 1000;
@@ -257,3 +257,4 @@
 </body>
 
 </html>
+
