@@ -1,0 +1,447 @@
+{
+  "3440015": {
+    "bezeichnung": "Fensterblech - 13cm anthrazit",
+    "preis": 19.99,
+    "staerke": "1,5"
+  },
+  "3440016": {
+    "bezeichnung": "Fensterblech - 16,5cm anthrazit",
+    "preis": 22.99,
+    "staerke": "1,5"
+  },
+  "3440017": {
+    "bezeichnung": "Fensterblech - 19,5cm anthrazit",
+    "preis": 25.99,
+    "staerke": "1,5"
+  },
+  "3440018": {
+    "bezeichnung": "Fensterblech - 11cm anthrazit",
+    "preis": 18.49,
+    "staerke": "1,5"
+  },
+  "3443682": {
+    "bezeichnung": "Fensterblech - 9cm weiß",
+    "preis": 15.49,
+    "staerke": "1,5"
+  },
+  "3443693": {
+    "bezeichnung": "Fensterblech - 13cm weiß",
+    "preis": 18.99,
+    "staerke": "1,5"
+  },
+  "3443704": {
+    "bezeichnung": "Fensterblech - 16,5cm weiß",
+    "preis": 22.99,
+    "staerke": "1,5"
+  },
+  "3443715": {
+    "bezeichnung": "Fensterblech - 19,5cm weiß",
+    "preis": 25.99,
+    "staerke": "1,5"
+  },
+  "3443847": {
+    "bezeichnung": "Fensterblech - 7cm silber",
+    "preis": 13.99,
+    "staerke": "1,5"
+  },
+  "3443913": {
+    "bezeichnung": "Fensterblech - 11cm silber",
+    "preis": 18.99,
+    "staerke": "1,5"
+  },
+  "3443957": {
+    "bezeichnung": "Fensterblech - 15cm silber",
+    "preis": 21.99,
+    "staerke": "1,5"
+  },
+  "3443968": {
+    "bezeichnung": "Fensterblech - 19,5cm silber",
+    "preis": 25.99,
+    "staerke": "1,5"
+  },
+  "7090050": {
+    "bezeichnung": "Arbeitsplatte - BBL 242",
+    "preis": 38.99,
+    "staerke": "39"
+  },
+  "7090056": {
+    "bezeichnung": "Arbeitsplatte - C242sc",
+    "preis": 38.99,
+    "staerke": "39"
+  },
+  "7090369": {
+    "bezeichnung": "Arbeitsplatte - BBL 739",
+    "preis": 38.99,
+    "staerke": "39"
+  },
+  "7090611": {
+    "bezeichnung": "Arbeitsplatte - Eiche Sanremo",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7090612": {
+    "bezeichnung": "Arbeitsplatte - Eiche Classic",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7090613": {
+    "bezeichnung": "Arbeitsplatte - Vintage",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7090614": {
+    "bezeichnung": "Arbeitsplatte - Nat. Oak Light",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7090615": {
+    "bezeichnung": "Arbeitsplatte - Marmor Di Mazi",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7090616": {
+    "bezeichnung": "Arbeitsplatte - Mocca",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7090617": {
+    "bezeichnung": "Arbeitsplatte - Oxid Hell",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7090618": {
+    "bezeichnung": "Arbeitsplatte - Navajo",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7090619": {
+    "bezeichnung": "Arbeitsplatte - Titan",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7100677": {
+    "bezeichnung": "Arbeitsplatte - Buche gez.",
+    "preis": 34.99,
+    "staerke": "27"
+  },
+  "7100684": {
+    "bezeichnung": "Arbeitsplatte - Eiche roh",
+    "preis": 54.99,
+    "staerke": "26"
+  },
+  "7100884": {
+    "bezeichnung": "Fensterbank - 20cm weiß",
+    "preis": 27.99,
+    "staerke": "19"
+  },
+  "7100885": {
+    "bezeichnung": "Fensterbank - 30cm weiß",
+    "preis": 34.99,
+    "staerke": "19"
+  },
+  "7100886": {
+    "bezeichnung": "Fensterbank - 20cm Oxid",
+    "preis": 27.99,
+    "staerke": "19"
+  },
+  "7100887": {
+    "bezeichnung": "Fensterbank - 30cm Oxid",
+    "preis": 34.99,
+    "staerke": "19"
+  },
+  "7100888": {
+    "bezeichnung": "Fensterbank - 20cm Tibur",
+    "preis": 27.99,
+    "staerke": "19"
+  },
+  "7100889": {
+    "bezeichnung": "Fensterbank - 20cm Mocca",
+    "preis": 27.99,
+    "staerke": "19"
+  },
+  "7100890": {
+    "bezeichnung": "Fensterbank - 30cm Mocca",
+    "preis": 34.99,
+    "staerke": "19"
+  },
+  "7100891": {
+    "bezeichnung": "Fensterbank - 20cm weiß mit ABK",
+    "preis": 29.99,
+    "staerke": "40"
+  },
+  "7100892": {
+    "bezeichnung": "Fensterbank - 30cm weiß mit ABK",
+    "preis": 34.99,
+    "staerke": "40"
+  },
+  "7100893": {
+    "bezeichnung": "Fensterbank - 20cm Oxid mit ABK",
+    "preis": 29.99,
+    "staerke": "40"
+  },
+  "7100894": {
+    "bezeichnung": "Fensterbank - 30cm Oxid mit ABK",
+    "preis": 34.99,
+    "staerke": "40"
+  },
+  "7100895": {
+    "bezeichnung": "Fensterbank - 20cm Tibur mit ABK",
+    "preis": 29.99,
+    "staerke": "40"
+  },
+  "7100896": {
+    "bezeichnung": "Fensterbank - 30cm Tibur mit ABK",
+    "preis": 34.99,
+    "staerke": "40"
+  },
+  "7100897": {
+    "bezeichnung": "Fensterbank - 20cm Mocca mit ABK",
+    "preis": 29.99,
+    "staerke": "40"
+  },
+  "7100898": {
+    "bezeichnung": "Fensterbank - 30cm Mocca mit ABK",
+    "preis": 34.99,
+    "staerke": "40"
+  },
+  "7100899": {
+    "bezeichnung": "Fensterbank - 30cm Tibur",
+    "preis": 34.99,
+    "staerke": "19"
+  },
+  "7110025": {
+    "bezeichnung": "Arbeitsplatte - Wenge Nairobi",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110026": {
+    "bezeichnung": "Arbeitsplatte - Nuss Butcherblock",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110032": {
+    "bezeichnung": "Arbeitsplatte - Kiefer M.",
+    "preis": 38.99,
+    "staerke": "28"
+  },
+  "7110039": {
+    "bezeichnung": "Arbeitsplatte - Titan",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110040": {
+    "bezeichnung": "Arbeitsplatte - Samoaeiche Hell",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110041": {
+    "bezeichnung": "Arbeitsplatte - Laramie Pinie",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110042": {
+    "bezeichnung": "Arbeitsplatte - Beton Opalgrey",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110043": {
+    "bezeichnung": "Arbeitsplatte - Marmor Di Mazi",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110046": {
+    "bezeichnung": "Arbeitsplatte - Eiche Cognac",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110047": {
+    "bezeichnung": "Arbeitsplatte - Eiche Endgrain",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110048": {
+    "bezeichnung": "Arbeitsplatte - Buche",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110050": {
+    "bezeichnung": "Arbeitsplatte - Ravenna grau",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110056": {
+    "bezeichnung": "Arbeitsplatte - Granit",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110059": {
+    "bezeichnung": "Arbeitsplatte - Granito anthrazit",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110079": {
+    "bezeichnung": "Arbeitsplatte - Beton Art",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110080": {
+    "bezeichnung": "Arbeitsplatte - Charlet Eiche",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110082": {
+    "bezeichnung": "Arbeitsplatte - Arizona Pinie",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110083": {
+    "bezeichnung": "Arbeitsplatte - Naturstein",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110084": {
+    "bezeichnung": "Arbeitsplatte - Tabacco",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110085": {
+    "bezeichnung": "Arbeitsplatte - Sahara",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110086": {
+    "bezeichnung": "Arbeitsplatte - Beton Art Perl",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110097": {
+    "bezeichnung": "Arbeitsplatte - Tibur",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110098": {
+    "bezeichnung": "Arbeitsplatte - Arabescato",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110099": {
+    "bezeichnung": "Arbeitsplatte - Eiche Sanremo",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110106": {
+    "bezeichnung": "Arbeitsplatte - Mocca",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110107": {
+    "bezeichnung": "Arbeitsplatte - Eiche Raw",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110109": {
+    "bezeichnung": "Arbeitsplatte - Native Oak Light",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110111": {
+    "bezeichnung": "Arbeitsplatte - Eiche Roosevelt",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110112": {
+    "bezeichnung": "Arbeitsplatte - Nuss Alm. Expr.",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110113": {
+    "bezeichnung": "Arbeitsplatte - Rusty Iron Ocean",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110115": {
+    "bezeichnung": "Arbeitsplatte - Hemlock Lava",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110116": {
+    "bezeichnung": "Arbeitsplatte - Rusty Iron",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110118": {
+    "bezeichnung": "Arbeitsplatte - Old Stone",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110119": {
+    "bezeichnung": "Arbeitsplatte - St. Grey Ocean",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110121": {
+    "bezeichnung": "Arbeitsplatte - Weiß",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110123": {
+    "bezeichnung": "Arbeitsplatte - Schiefer",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110126": {
+    "bezeichnung": "Arbeitsplatte - Steel Gr. Coff.",
+    "preis": 44.99,
+    "staerke": "39"
+  },
+  "7110127": {
+    "bezeichnung": "Arbeitsplatte - AT Stone Steel",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110315": {
+    "bezeichnung": "Arbeitsplatte - Hemlock Lava",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7110316": {
+    "bezeichnung": "Arbeitsplatte - Beton Opalgrey",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7110317": {
+    "bezeichnung": "Arbeitsplatte - Beton Ter grau",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7110318": {
+    "bezeichnung": "Arbeitsplatte - Beton Art Inf",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7110319": {
+    "bezeichnung": "Arbeitsplatte - Beton Sand",
+    "preis": 49.99,
+    "staerke": "39"
+  },
+  "7110320": {
+    "bezeichnung": "Arbeitsplatte - Polar Pinie",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110321": {
+    "bezeichnung": "Arbeitsplatte - Eiche Castell",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110322": {
+    "bezeichnung": "Arbeitsplatte - Nuss Tortona",
+    "preis": 39.99,
+    "staerke": "39"
+  },
+  "7110325": {
+    "bezeichnung": "Arbeitsplatte - Oxid",
+    "preis": 39.99,
+    "staerke": "39"
+  }
+}
