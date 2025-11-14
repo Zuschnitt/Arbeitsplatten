@@ -187,13 +187,13 @@
 <script>
     let artikelData = {};
 
-    fetch('artikel_liste.json')
+    fetch('artikel_liste_aktion.json')
         .then(response => response.json())
         .then(data => {
             artikelData = data;
         })
         .catch(error => {
-            console.error("Fehler beim Laden der artikel_liste.json:", error);
+            console.error("Fehler beim Laden der artikel_liste_aktion.json:", error);
         });
 
     function loadData(input) {
@@ -257,5 +257,6 @@
 </body>
 
 </html>
+
 
 
